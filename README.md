@@ -6,6 +6,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 www.mousa-alsheikh.com
 
-## git https://github.com/mousaalsheikh/ng-universal-template.git
+## git clone https://github.com/mousaalsheikh/ng-universal-template.git
 
 ## npm i
