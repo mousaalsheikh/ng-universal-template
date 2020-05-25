@@ -9,3 +9,6 @@ www.mousa-alsheikh.com
 ## git clone https://github.com/mousaalsheikh/ng-universal-template.git
 
 ## npm i
+
+
+## Full Documentation: http://www.mousa-alsheikh.com/post/17
